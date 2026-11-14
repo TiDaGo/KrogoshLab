@@ -28,6 +28,11 @@ Windows SmartScreen может предупредить о неизвестно�
 Twitch and YouTube data is fetched by the app on your computer; tokens never leave it and are never sent to the overlay.
 Данные Twitch и YouTube получает программа на вашем компьютере; токены никуда не уходят и в оверлей не передаются.
 
+## Roadmap / План развития
+
+Coming next: chat text-to-speech, donation alerts, a voice-reactive avatar (PNGTuber), keyboard & mouse display — see **[ROADMAP](ROADMAP.md)**.
+Дальше в планах: озвучка чата, оповещения о донатах, аватар, реагирующий на голос (PNGTuber), отображение нажатий клавиш — подробнее в **[ROADMAP](ROADMAP.md)**.
+
 ## Support / Поддержать
 
 KrogosLab is free. If it helps your streams — **[support the project on Boosty](https://boosty.to/krogosh/donate)**.
