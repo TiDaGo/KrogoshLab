@@ -1,9 +1,9 @@
 # Third-party components / Компоненты третьих лиц
 
-<img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="GB"> EN: <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US">
+EN <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US">
 KrogosLab uses the following components. Each is the property of its authors and is distributed under its own license; the KrogosLab license does not change those licenses.
 
-<img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="RU"> RU: <img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="RU">
+RU <img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="RU">
 KrogosLab использует перечисленные ниже компоненты. Каждый принадлежит своим авторам и распространяется на собственной лицензии; лицензия KrogosLab эти лицензии не меняет.
 
 ## Included libraries / Встроенные библиотеки
