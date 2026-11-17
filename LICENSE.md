@@ -1,6 +1,6 @@
 # KrogosLab — License and Terms of Use / Лицензия и условия использования
 
-🇬🇧 EN: :us:
+<img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="GB"> EN: <img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US">
 **KrogosLab** (the program, its modules, themes, templates and installer — the “Software”) © KroGoš. By installing or using the Software you accept these terms. If you do not accept them, do not install or use it.
 
 ### 1. License
@@ -40,7 +40,7 @@ These terms may change in new versions; the version shipped with the copy you us
 
 ---
 
-🇷🇺 RU: :ru:
+<img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="RU"> RU: <img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="RU">
 **KrogosLab** (программа, её модули, темы, шаблоны и установщик — «Программа») © KroGoš. Устанавливая или используя Программу, вы принимаете эти условия. Если вы с ними не согласны, не устанавливайте и не используйте её.
 
 ### 1. Лицензия
